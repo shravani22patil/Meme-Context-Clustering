@@ -3,6 +3,8 @@
 
 <p align="center">
   <img src="outputs/05_tsne_clusters.png" alt="t-SNE Cluster Visualization" width="85%"/>
+  <img width="2617" height="1181" alt="05_tsne_clusters" src="https://github.com/user-attachments/assets/e1a53d07-831c-4867-aad9-da557ecdc353" />
+
 </p>
 
 <p align="center">
