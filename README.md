@@ -2,9 +2,7 @@
 ### Unsupervised Discovery of Semantic Structure in Internet Meme Datasets
 
 <p align="center">
-  <img src="outputs/05_tsne_clusters.png" alt="t-SNE Cluster Visualization" width="85%"/>
   <img width="2617" height="1181" alt="05_tsne_clusters" src="https://github.com/user-attachments/assets/e1a53d07-831c-4867-aad9-da557ecdc353" />
-
 </p>
 
 <p align="center">
@@ -340,7 +338,7 @@ Low standard deviation = the cluster structure is real, not random.
 ## 🗂️ Discovered Clusters
 
 <p align="center">
-  <img src="outputs/07_cluster_keywords.png" alt="Cluster Keywords" width="90%"/>
+  <img width="2981" height="1181" alt="07_cluster_keywords" src="https://github.com/user-attachments/assets/0f08cb31-7db6-4323-afda-27fbaef48021" />
 </p>
 
 | Cluster | Name | Size | % | Description |
@@ -357,7 +355,8 @@ Low standard deviation = the cluster structure is real, not random.
 The model correctly identified that the dataset is **not uniformly distributed** — there's a dominant general-humor majority (C0) and several distinct niche communities (C1–C7) embedded within it. This mirrors how internet meme culture actually works.
 
 <p align="center">
-  <img src="outputs/06_cluster_feature_heatmap.png" alt="Cluster Feature Heatmap" width="85%"/>
+  <img width="1905" height="883" alt="06_cluster_feature_heatmap" src="https://github.com/user-attachments/assets/ad7cf266-4210-403f-a36e-e329ef757822" />
+
 </p>
 
 ---
@@ -377,7 +376,8 @@ All visualizations are generated automatically by the pipeline and saved to `out
 | `07_cluster_keywords.png` | Top TF-IDF keywords per cluster (8 subplots) |
 
 <p align="center">
-  <img src="outputs/01_eda_overview.png" alt="EDA Overview" width="85%"/>
+  <img width="2703" height="1475" alt="01_eda_overview" src="https://github.com/user-attachments/assets/82569308-a882-4fe8-886a-edc831b187c7" />
+
 </p>
 
 ---
